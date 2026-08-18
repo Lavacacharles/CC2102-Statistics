@@ -1,1 +1,1 @@
-# CC1105-Estad-stica
+# CC1105 Coursework
